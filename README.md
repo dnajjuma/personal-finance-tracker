@@ -28,19 +28,19 @@ Node.js (23.4.0)
 npm (for package management)
 Installation: Clone the repository:
 
-** git clone https://github.com/dnajjuma/personal-finance-tracker.git **
+        git clone https://github.com/dnajjuma/personal-finance-tracker.git 
 
 cd personal-finance-tracker
 
 Install the required dependencies:
 
-** npm install **
+        npm install
 
 Start the development server:
 
-** npm start **
+        npm start
 
-    -> The app should now be running at http://localhost:3000. 
+- The app should now be running at http://localhost:3000. 
 
 Contributing
 
