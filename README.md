@@ -28,7 +28,7 @@ Node.js (23.4.0)
 npm (for package management)
 Installation: Clone the repository:
 
-$ git clone https://github.com/yourusername/personal-finance-tracker.git
+$ git clone https://github.com/dnajjuma/personal-finance-tracker.git
 
 cd personal-finance-tracker
 
