@@ -1,7 +1,7 @@
 My personal finance tracker is built to help users manage their income and expenses efficiently, track spending patterns, and visualize their financial data. The app allows for categorization of transactions and a responsive design suitable for both desktop and mobile.
 
 
- ** Core Features **
+ CORE FEATURES
 
 1. Transaction Management
 - Input forms for recording transactions (income and expenses).
